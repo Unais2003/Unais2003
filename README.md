@@ -22,25 +22,56 @@ I'm a Data Science & AI graduate student with a Computer Science foundation, ble
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-Python • JavaScript • C • C++ • R
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-Standard-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-4-276DC3?logo=r&logoColor=white)
 
 ### Data Science & ML
-Pandas • NumPy • scikit-learn • LLM • Statistical Methods
+![Pandas](https://img.shields.io/badge/Pandas-2-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Latest-013243?logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?logo=scikit-learn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-APIs-00A67E?logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Standard-336791?logo=postgresql&logoColor=white)
+![Statistical Methods](https://img.shields.io/badge/Statistics-Advanced-FF6B6B?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
 
 ### Data Engineering
-ETL/ELT • Data Pipelines • Data Quality Checks • SQL • Data Transformation
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-Expert-4A90E2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-Advanced-FF9800?logo=airflow)
+![Data Quality Checks](https://img.shields.io/badge/Data%20Quality-Advanced-4CAF50?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-Expert-2196F3?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
+![Batch Data Pipelines](https://img.shields.io/badge/Batch%20Pipelines-Advanced-FF5722?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
 
 ### Web Development
-Django • HTML • CSS • JavaScript • Bootstrap
+![Django](https://img.shields.io/badge/Django-4-092E20?logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Latest-E34C26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Latest-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18-339933?logo=node.js&logoColor=white)
 
 ### Visualization & BI
-Matplotlib • Seaborn • PyQtGraph • Power BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-4C72B0?logo=python&logoColor=white)
+![PyQtGraph](https://img.shields.io/badge/PyQtGraph-Latest-41CD52?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Latest-F2CC0C?logo=powerbi&logoColor=black)
 
 ### Cloud & DevOps
-AWS • GCP • Docker • Kubernetes (foundational) • CI/CD • MLOps
+![AWS](https://img.shields.io/badge/AWS-Basic-FF9900?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Basic-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Foundational-326CE5?logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Fundamentals-00A67E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
 
 ### Tools & Platforms
-Git • GitHub • Jira • Jupyter Notebook • VS Code • Linux
+![Git](https://img.shields.io/badge/Git-2.40-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Latest-181717?logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Latest-0052CC?logo=jira&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Latest-F37726?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Latest-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black)
 
 ---
 
