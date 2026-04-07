@@ -6,14 +6,14 @@ Master's student in Data Science & AI at FH Joanneum, passionate about translati
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a Data Science & AI graduate student with a Computer Science foundation, blending analytics, experimentation, and product thinking to solve complex problems. My experience spans:
 
-- 🔬 **Machine Learning & Data Science** – From EDA to model deployment
-- 🏗️ **Data Engineering** – Designing robust preprocessing pipelines and ETL workflows
-- 💻 **Software Development** – Building user-facing applications with clean, maintainable code
-- 📊 **Analytics & Visualization** – Translating complex insights for stakeholders
+-  **Machine Learning & Data Science** – From EDA to model deployment
+-  **Data Engineering** – Designing robust preprocessing pipelines and ETL workflows
+-  **Software Development** – Building user-facing applications with clean, maintainable code
+-  **Analytics & Visualization** – Translating complex insights for stakeholders
 
 **Current focus:** Deepening expertise in modern AI systems, analytics tooling, and human-centered interfaces that make complex models understandable.
 
