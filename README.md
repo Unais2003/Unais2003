@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2800&pause=2000&color=00A67E&center=true&vCenter=true&width=800&height=70&lines=Hi👋,+I+am+Muhammed+Unais+Perinchikkal" alt="Animated Name" />
 
-###  Passionate Data Science & AI Engineer | ML Systems | Data Engineering
+###  Passionate about Data Science & AI Engineering | ML Systems | Data Engineering
 
 
 
