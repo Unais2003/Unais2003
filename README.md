@@ -1,5 +1,3 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrMEV7zN/giphy.gif" width="30px"> Muhammed Unais Perinchikkal
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2800&pause=2000&color=00A67E&center=true&vCenter=true&width=600&height=70&lines=Muhammed+Unais+Perinchikkal" alt="Animated Name" />
 
 ###  Passionate Data Science & AI Engineer | ML Systems | Data Engineering
