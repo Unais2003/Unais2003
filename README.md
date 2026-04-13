@@ -1,47 +1,60 @@
-# Welcome to My Personal README
+# Unais2003's Profile
 
 ## Animated Name Header
-![Name](https://media.giphy.com/media/3oEjI6SIIHBdK5P5Zq/giphy.gif)
-
-## Languages and Tools
-
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=3776AB"/>
-    <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=007396"/>
-    <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=339933"/>
-    <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=E34F26"/>
-    <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
-</p>
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unais2003&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unais2003&layout=compact&theme=radical)
+![Animated Name](link_to_your_animated_name.gif)
 
 ## Professional Experience
-- **Software Developer** at XYZ Company  
-  *Jan 2022 - Present*  
-  Developed various web applications using React and Node.js.
+
+### Faws Tech
+- Role: [Your Role at Faws Tech]
+- Duration: [Your Duration at Faws Tech]
+- Responsibilities: [Your Responsibilities]
+
+### Unicoverage
+- Role: [Your Role at Unicoverage]
+- Duration: [Your Duration at Unicoverage]
+- Responsibilities: [Your Responsibilities]
+
+### CodeAlpha
+- Role: [Your Role at CodeAlpha]
+- Duration: [Your Duration at CodeAlpha]
+- Responsibilities: [Your Responsibilities]
 
 ## Featured Projects
-- [Project 1](https://github.com/Unais2003/project1) - Description of Project 1
-- [Project 2](https://github.com/Unais2003/project2) - Description of Project 2
+
+### Chromatogram
+- Description: [Brief Description of Chromatogram]
+- Link: [Link to Chromatogram]
+
+### Career Guidance
+- Description: [Brief Description of Career Guidance]
+- Link: [Link to Career Guidance]
+
+### Health Analytics
+- Description: [Brief Description of Health Analytics]
+- Link: [Link to Health Analytics]
 
 ## Education
-- **Bachelor of Science in Computer Science**  
-  ABC University,  *2021*  
-  Focused on Software Development and Data Structures.
 
-## Leadership
-- Leader of Coding Club at ABC University  
-  Organized workshops and hackathons.
+### MSc FH Joanneum
+- Year: [Year of Graduation]
 
-## Connect With Me
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-- Twitter: [@your-twitter-handle](https://twitter.com/your-handle)  
+### BSc Hansraj
+- Year: [Year of Graduation]
 
----  
-### Last Updated: 2026-04-13 02:38:48 (UTC)
+## Blog Articles
+- [Link to Blog Article 1]
+- [Link to Blog Article 2]
+- [Link to Blog Article 3]
+
+## GitHub Statistics
+![GitHub Stats](link_to_your_github_stats_graph.png)
+
+## Contact
+- [![LinkedIn](link_to_linkedin_logo.png)](link_to_your_linkedin)
+- [![Gmail](link_to_gmail_logo.png)](mailto:your_email@gmail.com)
+- [![GitHub](link_to_github_logo.png)](link_to_your_github)
+- [![Portfolio](link_to_portfolio_logo.png)](link_to_your_portfolio)
+
+----
+This README was last updated on 2026-04-13 02:45:22 UTC.
