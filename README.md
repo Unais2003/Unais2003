@@ -1,8 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2800&pause=2000&color=00A67E&center=true&vCenter=true&width=600&height=70&lines=Muhammed+Unais+Perinchikkal" alt="Animated Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2800&pause=2000&color=00A67E&center=true&vCenter=true&width=600&height=70&lines=Hi👋,Muhammed+Unais+Perinchikkal" alt="Animated Name" />
 
 ###  Passionate Data Science & AI Engineer | ML Systems | Data Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A67E&width=500&lines=Data+Science+%26+AI+Specialist;ML+%26+Deep+Learning+Engineer;Data+Engineering+Pipeline+Designer;Analytics+%26+Visualization+Expert" alt="Typing SVG" />
 
 ---
 
